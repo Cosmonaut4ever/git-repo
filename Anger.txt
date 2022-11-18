@@ -1,1 +1,2 @@
 print("Ich bin grraaa");
+print("Ich habe Angst");
